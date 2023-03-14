@@ -3,7 +3,7 @@ body{
     background-color: #d6e1f0;
 }
 
-.inicial {
+.firstBox {
     display: flex;
     justify-content: center;
     align-items: center;
